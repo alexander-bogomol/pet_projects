@@ -16,4 +16,4 @@
 упаковкой и т.д. Задача непростая и подразумевает применение различных подходов, помимо представленного в
 бейзлайне.
 
-*Симпатичные визуализации github не показывает. Если открыть через <a href='https://github.dev/alexander-bogomol/pet_projects/blob/master/LDA.%20Topic%20modeling/topic_modeling%20(LDA).ipynb'>github.dev</a> - всё ок.
+*Симпатичные визуализации github не показывает. Если открыть через <a href="https://github.dev/alexander-bogomol/pet_projects/blob/master/LDA.%20Topic%20modeling/topic_modeling%20(LDA).ipynb">github dev</a> - всё ок.
